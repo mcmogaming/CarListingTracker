@@ -1,3 +1,4 @@
 export const PATHS = {
-    LANDING_PAGE: "/"
-  };
+  LANDING_PAGE: "/",
+  PROFILE_PAGE: "/profile",
+};

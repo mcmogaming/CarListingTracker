@@ -1,8 +1,9 @@
+import { NavBar } from "../../shared/components/navbar";
+
 function LandingPage() {
   return (
     <>
-      <h1>Car Statistics</h1>
-      <h2>Authors: Mohamamd and Efkan</h2>
+      <NavBar />
     </>
   );
 }
